@@ -2,7 +2,8 @@
 
 <a href="https://www.youtube.com/watch?v=nU9ymnQupjQ&feature=emb_logo" target="_blank">Click here to watch the video.</a>
 
-A short introduction to the main tool that we will be using during the course: Google Colaboratory (Links to an external site.). There is no assignment submission associated with this video, simply watch the video and then proceed to the next objective.
+A short introduction to the main tool that we will be using during the course: [Google Colaboratory](https://research.google.com/). 
+There is no assignment submission associated with this video, simply watch the video and then proceed to the next objective.
 
 If you do not already have a Google Account, you can sign up for one [here:](http://accounts.google.com/signup)
 
@@ -16,4 +17,12 @@ In addition, there will be a few notebooks which contain interactive cells: you 
 
 The following notebook will provide a basic introduction for how the assert statements work and how to go through the notebook and check your answers: [Interactive Notebook Tutorial](https://colab.research.google.com/drive/134FEFIHeM-zyzY-hg-KMvdeEE4HNtJv4#scrollTo=yfHKguLkKvK6)
 
-There is no assignment submission associated with this tutorial notebook. Just work through the tutorial linked above and when you're ready, you can begin watching the lectures videos and completing assignments!
+There is no practice notebook associated with this tutorial. Just work through the tutorial linked above and when you're ready, you can begin watching the lectures videos and completing assignments!
+
+# Why Python
+[Click here to watch a short video.](https://www.youtube.com/watch?v=PRvQu_9E_gg&feature=emb_imp_woyt)
+There is no practice notebook associated with this video.
+
+
+# Math with Python
+There is no practice notebook associated with this video.
