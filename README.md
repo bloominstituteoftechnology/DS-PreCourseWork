@@ -1,5 +1,7 @@
 # Welcome to BloomTech's Data Science Intro Course!
-> PLEASE READ THIS ENTIRE DOCUMENT BEFORE STARTING
+> PLEASE CLICK ON AND WATCH THE FOLLOWING VIDEO BEFORE STARTING
+
+[![Google Colab](https://img.youtube.com/vi/nU9ymnQupjQ/0.jpg)](https://youtu.be/gimjzXAhdvc)
 
 This course is a prerequisite to BloomTech's Data Science Course. While there are important fundamental data science skills that you will learn from this course, we also want to see your grit and tenacity in completing challenging material. We have found that a student's ability to persevere is a much better indicator of success than previous experience.
 
