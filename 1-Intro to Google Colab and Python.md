@@ -1,8 +1,9 @@
 # Intro to Google Colaboratory
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/nU9ymnQupjQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=nU9ymnQupjQ)
 
-A short introduction to the main tool that we will be using during the course: [Google Colaboratory](https://research.google.com/). 
+[![Google Colab](https://img.youtube.com/vi/nU9ymnQupjQ/0.jpg)](https://www.youtube.com/watch?v=nU9ymnQupjQ)
+
+Click on the image above to watch a short introduction to the main tool that we will be using during the course: [Google Colaboratory](https://research.google.com/). 
 There is no assignment submission associated with this video, simply watch the video and then proceed to the next objective.
 
 If you do not already have a Google Account, you can sign up for one [here:](http://accounts.google.com/signup)
