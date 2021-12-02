@@ -1,6 +1,6 @@
 # Intro to Google Colaboratory
 
-<a href="https://www.youtube.com/watch?v=nU9ymnQupjQ&feature=emb_logo" target="_blank">Click here to watch the video.</a>
+[![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?v=nU9ymnQupjQ&feature=emb_logo)]
 
 A short introduction to the main tool that we will be using during the course: [Google Colaboratory](https://research.google.com/). 
 There is no assignment submission associated with this video, simply watch the video and then proceed to the next objective.
@@ -19,14 +19,3 @@ The following notebook will provide a basic introduction for how the assert stat
 
 There is no practice notebook associated with this tutorial. Just work through the tutorial linked above and when you're ready, you can begin watching the lectures videos and completing assignments!
 
-# Why Python
-[Click here to watch a short video.](https://www.youtube.com/watch?v=PRvQu_9E_gg&feature=emb_imp_woyt)
-
-There is no practice notebook associated with this video.
-
-
-# Math with Python
-
-[Click here to watch a short video.](https://www.youtube.com/watch?v=2db9Fu7Pu3U&feature=emb_logo)
-
-There is no practice notebook associated with this video.

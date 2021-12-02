@@ -1,4 +1,7 @@
 # Why Python?
+
+Use the lecture notebooks to follow along with the videos. You will have to make a copy of the notebook to your personal Google Drive account in order to have edit permission. 
+
 [Click here to watch a short video.](https://www.youtube.com/watch?v=PRvQu_9E_gg&feature=emb_imp_woyt)
 
 There is no practice notebook associated with this video.
