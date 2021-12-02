@@ -1,4 +1,4 @@
-# Why Python
+# Why Python?
 [Click here to watch a short video.](https://www.youtube.com/watch?v=PRvQu_9E_gg&feature=emb_imp_woyt)
 
 There is no practice notebook associated with this video.
@@ -34,3 +34,38 @@ Complete the assignment and save it for your reference.
 [Lecture Notes](https://colab.research.google.com/drive/1DtizCENu7xt_aUfFsPnAvcCx2stmaCzO)
 
 [Practice Notebook](https://colab.research.google.com/drive/1okXjwWt9YX4voR9pxTQRQjCTeE9s82dr)
+
+
+# Python If Statements
+
+[Click here to watch a short video.](https://www.youtube.com/watch?v=fl_lG6mru5E)
+
+[Lecture Notes](https://colab.research.google.com/drive/1p3BHNVYwSjovWDbXoAiXLVeikntYsjxX?usp=sharing)
+
+
+# Python Functions and Packages
+
+[Click here to watch a short video.](https://www.youtube.com/watch?v=pipKRj84tTI)
+
+[Lecture Notes](https://colab.research.google.com/drive/1SFREh9fB0madgMg8vS06wYol8Cw8TSiL)
+
+[Practice Notebook](https://colab.research.google.com/drive/1qOdE2G8YEd2UPchhg0E0LAhMww026mTw)
+
+
+
+# Introduction to Numpy
+
+[Click here to watch a short video.](https://www.youtube.com/watch?v=47kfrJ7kMBI)
+
+[Lecture Notes](https://colab.research.google.com/drive/1q5_hum3T46a9vXRdGrOlPhjBUP__PxgQ)
+
+[Practice Notebook](https://colab.research.google.com/drive/1xTkE-h-V0wrsL1znECfdwybVyTTVisuG)
+
+
+
+
+
+
+
+
+
