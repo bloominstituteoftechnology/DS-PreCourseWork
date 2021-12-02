@@ -2,20 +2,20 @@
 
 Use the lecture notebooks to follow along with the videos. You will have to make a copy of the notebook to your personal Google Drive account in order to have edit permission. 
 
-[Click here to watch a short video.](https://www.youtube.com/watch?v=PRvQu_9E_gg&feature=emb_imp_woyt)
+[![Google Colab](https://img.youtube.com/vi/nU9ymnQupjQ/0.jpg)](https://www.youtube.com/watch?v=PRvQu_9E_gg&feature=emb_imp_woyt)
 
 There is no practice notebook associated with this video.
 
 
 # Math with Python
 
-[Click here to watch a short video.](https://www.youtube.com/watch?v=2db9Fu7Pu3U&feature=emb_logo)
+[![Google Colab](https://img.youtube.com/vi/nU9ymnQupjQ/0.jpg)](https://www.youtube.com/watch?v=2db9Fu7Pu3U&feature=emb_logo)
 
 There is no practice notebook associated with this video.
 
 # Python Variables and Data Types
 
-[Click here to watch a short video.](https://www.youtube.com/watch?v=iIiZpRnnQSk)
+[![Google Colab](https://img.youtube.com/vi/nU9ymnQupjQ/0.jpg)](https://www.youtube.com/watch?v=iIiZpRnnQSk)
 
 [Lecture Notes](https://colab.research.google.com/drive/109iU2p8HCIKM4LWpfyGqTptWUA65Dm0r?usp=sharing)
 
@@ -25,7 +25,7 @@ Complete the assignment and save it for your reference.
 
 # Python Lists
 
-[Click here to watch a short video.](https://www.youtube.com/watch?v=ZY-diBkVh8I)
+[![Google Colab](https://img.youtube.com/vi/nU9ymnQupjQ/0.jpg)](https://www.youtube.com/watch?v=ZY-diBkVh8I)
 
 [Lecture Notes](https://colab.research.google.com/drive/1lZXDf11c9G4ONVktMpHM9UnOPm21xZGU)
 
