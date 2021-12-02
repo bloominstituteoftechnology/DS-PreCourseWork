@@ -1,6 +1,6 @@
 # Intro to Google Colaboratory
 
-[![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?v=nU9ymnQupjQ&feature=emb_logo)]
+[![IMAGE ALT TEXT HERE](https://www.youtube.com/vi/nU9ymnQupjQ/maxresdefault.jpg)]
 
 A short introduction to the main tool that we will be using during the course: [Google Colaboratory](https://research.google.com/). 
 There is no assignment submission associated with this video, simply watch the video and then proceed to the next objective.
