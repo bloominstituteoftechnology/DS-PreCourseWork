@@ -21,8 +21,12 @@ There is no practice notebook associated with this tutorial. Just work through t
 
 # Why Python
 [Click here to watch a short video.](https://www.youtube.com/watch?v=PRvQu_9E_gg&feature=emb_imp_woyt)
+
 There is no practice notebook associated with this video.
 
 
 # Math with Python
+
+[Click here to watch a short video.](https://www.youtube.com/watch?v=2db9Fu7Pu3U&feature=emb_logo)
+
 There is no practice notebook associated with this video.
