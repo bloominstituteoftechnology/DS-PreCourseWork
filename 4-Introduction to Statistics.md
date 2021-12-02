@@ -6,7 +6,7 @@ Use the lecture notebooks to follow along with the videos. You will have to make
 
 # Descriptive Statistics 1 
 
-[Click here to watch a short video.](https://www.youtube.com/watch?v=qG3UmRzRr-s)
+[![Google Colab](https://img.youtube.com/vi/nU9ymnQupjQ/0.jpg)](https://www.youtube.com/watch?v=qG3UmRzRr-s)
 
 [Lecture Notes](https://colab.research.google.com/drive/1IUqV-SyhFqNps5LbmqpT2R1G7b4e-tUT)
 
@@ -15,7 +15,7 @@ Use the lecture notebooks to follow along with the videos. You will have to make
 
 # Descriptive Statistics 2
 
-[Click here to watch a short video.](https://www.youtube.com/watch?v=g3iwbVdFRCI)
+[![Google Colab](https://img.youtube.com/vi/nU9ymnQupjQ/0.jpg)](https://www.youtube.com/watch?v=g3iwbVdFRCI)
 
 [Lecture Notes](https://colab.research.google.com/drive/18eMrOr7IF0mcOqJYw7vD_F8U7Ij1sSOg)
 

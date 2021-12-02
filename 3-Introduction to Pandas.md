@@ -6,14 +6,14 @@ Use the lecture notebooks to follow along with the videos. You will have to make
 
 # Why Pandas? 
 
-[Click here to watch a short video.](https://www.youtube.com/watch?v=XfkIlWwSb5I)
+[![Google Colab](https://img.youtube.com/vi/nU9ymnQupjQ/0.jpg)](https://www.youtube.com/watch?v=XfkIlWwSb5I)
 
 [Lecture Notes](https://colab.research.google.com/drive/1b2g33TluwTr2P0Wmc39h2wwKLLFFf89y?usp=sharing)
 
 
 # Loading Data
 
-[Click here to watch a short video.](https://www.youtube.com/watch?v=ZKTC9Wpw-iE&t=2s)
+[![Google Colab](https://img.youtube.com/vi/nU9ymnQupjQ/0.jpg)](https://www.youtube.com/watch?v=ZKTC9Wpw-iE&t=2s)
 
 [Lecture Notes](https://colab.research.google.com/drive/1XzAKnQ5V-iwmO7pokkuN2yu80rH_tbJe)
 
@@ -22,7 +22,7 @@ Use the lecture notebooks to follow along with the videos. You will have to make
 
 # Indexing and Subsetting DataFrames
 
-[Click here to watch a short video.](https://www.youtube.com/watch?v=UKLHYCr7rPg&t=1s)
+[![Google Colab](https://img.youtube.com/vi/nU9ymnQupjQ/0.jpg)](https://www.youtube.com/watch?v=UKLHYCr7rPg&t=1s)
 
 [Lecture Notes](https://colab.research.google.com/drive/1qQP4VKJaZWWSyPuwrIfdzkWMz5uY8mVL)
 
@@ -32,7 +32,7 @@ Use the lecture notebooks to follow along with the videos. You will have to make
 
 # Cleaning Data
 
-[Click here to watch a short video.](https://www.youtube.com/watch?v=_mRdJkWRCUE)
+[![Google Colab](https://img.youtube.com/vi/nU9ymnQupjQ/0.jpg)](https://www.youtube.com/watch?v=_mRdJkWRCUE)
 
 [Lecture Notes](https://colab.research.google.com/drive/1J3vNzGZJh-UqiV0osYhy3m8sPonUy3G9)
 
@@ -41,7 +41,7 @@ Use the lecture notebooks to follow along with the videos. You will have to make
 
 # Basic Visualizations
 
-[Click here to watch a short video.](https://www.youtube.com/watch?v=Qe9x9TmE1Yw)
+[![Google Colab](https://img.youtube.com/vi/nU9ymnQupjQ/0.jpg)](https://www.youtube.com/watch?v=Qe9x9TmE1Yw)
 
 [Lecture Notes](https://colab.research.google.com/drive/1bYJcnVSOG09cESfDmiAf63ctJi_w8d83)
 

@@ -32,7 +32,7 @@ Complete the assignment and save it for your reference.
 
 # Python For Loops
 
-[Click here to watch a short video.](https://www.youtube.com/watch?v=GobMcMpjqzg)
+[![Google Colab](https://img.youtube.com/vi/nU9ymnQupjQ/0.jpg)](https://www.youtube.com/watch?v=GobMcMpjqzg)
 
 [Lecture Notes](https://colab.research.google.com/drive/1DtizCENu7xt_aUfFsPnAvcCx2stmaCzO)
 
@@ -41,14 +41,14 @@ Complete the assignment and save it for your reference.
 
 # Python If Statements
 
-[Click here to watch a short video.](https://www.youtube.com/watch?v=fl_lG6mru5E)
+[![Google Colab](https://img.youtube.com/vi/nU9ymnQupjQ/0.jpg)](https://www.youtube.com/watch?v=fl_lG6mru5E)
 
 [Lecture Notes](https://colab.research.google.com/drive/1p3BHNVYwSjovWDbXoAiXLVeikntYsjxX?usp=sharing)
 
 
 # Python Functions and Packages
 
-[Click here to watch a short video.](https://www.youtube.com/watch?v=pipKRj84tTI)
+[![Google Colab](https://img.youtube.com/vi/nU9ymnQupjQ/0.jpg)](https://www.youtube.com/watch?v=pipKRj84tTI)
 
 [Lecture Notes](https://colab.research.google.com/drive/1SFREh9fB0madgMg8vS06wYol8Cw8TSiL)
 
@@ -58,7 +58,7 @@ Complete the assignment and save it for your reference.
 
 # Introduction to Numpy
 
-[Click here to watch a short video.](https://www.youtube.com/watch?v=47kfrJ7kMBI)
+[![Google Colab](https://img.youtube.com/vi/nU9ymnQupjQ/0.jpg)](https://www.youtube.com/watch?v=47kfrJ7kMBI)
 
 [Lecture Notes](https://colab.research.google.com/drive/1q5_hum3T46a9vXRdGrOlPhjBUP__PxgQ)
 
